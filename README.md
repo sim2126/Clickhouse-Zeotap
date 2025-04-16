@@ -59,7 +59,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-4. Access the application at: http://localhost:5000
+4. Access the application at the public url generated ( eg: https://2426-34-127-69-55.ngrok-free.app/)
 
 ## Usage Instructions
 
